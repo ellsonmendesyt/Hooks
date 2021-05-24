@@ -1,0 +1,23 @@
+[33mcommit def845d50216b8a76db3bfaca8bae090c1e78a5f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: ellsonmendesyt <elsonmendesoficial@gmail.com>
+Date:   Mon May 24 15:24:32 2021 -0300
+
+    mudando qualquer coisa do estado força a re renderizar
+
+[33mcommit 5bd848a9b61cad6929e77f155c1cc5a4ac324636[m
+Author: ellsonmendesyt <elsonmendesoficial@gmail.com>
+Date:   Mon May 24 15:09:15 2021 -0300
+
+    terminando usestate
+
+[33mcommit 2f7a25a9cce1e4752fce52ab391785a040dcff91[m
+Author: ellsonmendesyt <elsonmendesoficial@gmail.com>
+Date:   Mon May 24 14:31:57 2021 -0300
+
+    Use state Hook
+
+[33mcommit 7d39c7f99ef29e218583c06c552d07484c7b280b[m
+Author: ellsonmendesyt <elsonmendesoficial@gmail.com>
+Date:   Mon May 24 07:38:06 2021 -0300
+
+    Initialize project using Create React App

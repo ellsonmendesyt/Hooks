@@ -11,7 +11,7 @@ function App() {
 
  useEffect(()=>{
    console.log('renderizou');
- },[values])
+ },[values.password])
 
 
 
