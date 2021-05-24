@@ -1,11 +1,25 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './main.css';
 import useForm from './components/useForm';
+import React, { useState, useEffect } from 'react'
 
 function App() {
-
-  //#2 usa o hook
+  //guarda o estado
   const [values, handleChange]=useForm({email:'',password:''});
+
+
+
+ useEffect(()=>{
+   console.log('renderizou');
+ },[values])
+
+
+
+
+
+// ENTRADAS CONTROLADAS   
+// o input mostra o estado
+// quando digitamos mudamos o estado
 
   return (
    <div className="container-fluid d">
