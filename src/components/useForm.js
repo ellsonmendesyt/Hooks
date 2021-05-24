@@ -8,7 +8,8 @@ return[
     e=>setValues({                  
         ...values,                  //mantem os valores que ja tem
         [e.target.name]:e.target.value //o que eu digitar vai ser o nome
-})]}
+}
+)]}
 
 export default useForm
 
